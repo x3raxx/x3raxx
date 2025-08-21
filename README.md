@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @x3raxx
-- 👀 I’m interested in Cyber Security And Network Engineer
-- 🌱 I’m currently learning Cyber Security
+👋 Hi, I’m Aanandha
 
-<!---
-x3raxx/x3raxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m passionate about coding, cybersecurity, and problem solving.
+I like to learn by building, experimenting, and exploring how things work under the hood.
+
+🔹 About Me
+
+🔐 Interested in cybersecurity, networking
+
+🌱 Always learning and improving every day
+
+🔹 Tech Stack
+
+Languages: Python, Bash
+
+Focus Areas: Cybersecurity, Threat Hunting, Networking
+
+Tools: nmap, Burpsuite, Linux, Wireshark
+
+🔹 GitHub Stats
+
+🔹 Connect with Me
+
+📧 Email: anandhacyb@gmail.com
